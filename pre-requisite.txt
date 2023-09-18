@@ -1,0 +1,9 @@
+requirements:
+ - nodeJS 16 LTS
+ - firefox browser
+
+install dependency (run the command under the framework folder):
+ - npm install
+ 
+run the test:
+ - npm run wdio
